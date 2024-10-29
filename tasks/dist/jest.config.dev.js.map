@@ -1,0 +1,1 @@
+{"version":3,"sources":["jest.config.js"],"names":["transform","extensionsToTreatAsEsm"],"mappings":";;;;;;eAAe;AACXA,EAAAA,SAAS,EAAE,EADA;AAEXC,EAAAA,sBAAsB,EAAE,CAAC,KAAD;AAFb,C","sourcesContent":["export default {\r\n    transform: {},\r\n    extensionsToTreatAsEsm: ['.js'],\r\n  };\r\n  "],"file":"jest.config.dev.js"}
